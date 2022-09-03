@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Football-training-using-computer-vision" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Do8Pn7QqOkR5MctGIVsRqiLjYz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,7 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Football-activities-analysiss/tempp.py" />
   </component>
   <component name="RunManager" selected="Python.train">
     <configuration name="_dollarpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -177,26 +177,30 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="373" y="0" key="#train/0.0.1280.720@0.0.1280.720" timestamp="1661805776328" />
-    <state width="1280" height="172" key="GridCell.Tab.0.bottom" timestamp="1661806661381">
+    <state x="421" y="116" key="FileChooserDialogImpl" timestamp="1662224485245">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1280" height="172" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1661806661381" />
-    <state width="1280" height="172" key="GridCell.Tab.0.center" timestamp="1661806661381">
+    <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1662224485245" />
+    <state width="1280" height="172" key="GridCell.Tab.0.bottom" timestamp="1662238196340">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1280" height="172" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1661806661381" />
-    <state width="1280" height="172" key="GridCell.Tab.0.left" timestamp="1661806661381">
+    <state width="1280" height="172" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1662238196340" />
+    <state width="1280" height="172" key="GridCell.Tab.0.center" timestamp="1662238196339">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1280" height="172" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1661806661381" />
-    <state width="1280" height="172" key="GridCell.Tab.0.right" timestamp="1661806661381">
+    <state width="1280" height="172" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1662238196339" />
+    <state width="1280" height="172" key="GridCell.Tab.0.left" timestamp="1662238196339">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1280" height="172" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1661806661381" />
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1661804893682">
+    <state width="1280" height="172" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1662238196339" />
+    <state width="1280" height="172" key="GridCell.Tab.0.right" timestamp="1662238196340">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1661804893682" />
+    <state width="1280" height="172" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1662238196340" />
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1661929181166">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="337" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1661929181166" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1661362240065">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
